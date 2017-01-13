@@ -1,5 +1,5 @@
 ## RuCe
-### an peer to peer application that helps me to find a nearby lavatory
+### a peer to peer application that helps me to find a nearby lavatory
 ### on going side project in the year of 2017
 
 ## 如厕
